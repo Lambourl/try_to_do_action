@@ -2,15 +2,14 @@
 
 int main(){
     std::cout<<"hello world "<<std::endl;
-    /*
-    * TO DO : Make something
-    */
 
-    /*
-    # TO DO : Make something2 
-    */
+/*
+  # TODO Come up with a more imaginative greeting
+        #  Everyone uses hello world and it's boring.
+        #  labels: help wanted
+        #  assignees: Lambourl, bouteillerAlan, hbjydev
+        #  milestone: 1
 
-
-
+*/
     return 0;
 }
